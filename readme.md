@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/rocketseat-education/nlw-journey-html-css-js/main/.github/logo.png" width="100%">
+  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/rocketseat-education/nlw-journey-html-css-js/main/.github/logo.png" width="50%">
 </p>
 
 <p align="center">
@@ -19,7 +19,7 @@ Aplicação desenvolvida no NLW Journey da Rocketseat na trilha HTML+CSS+JS. <br
 <br>
 
 <p align="center">
-  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/rocketseat-education/nlw-journey-html-css-js/main/.github/preview.png" width="100%">
+  <img alt="projeto DevLinks" src="https://raw.githubusercontent.com/rocketseat-education/nlw-journey-html-css-js/main/.github/preview.png" width="80%">
 </p>
 
 ## 🚀 Tecnologias
